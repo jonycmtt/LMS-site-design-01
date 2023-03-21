@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://ciseco-simple.netlify.app/](https://ciseco-simple.netlify.app/)
+[https://ciseco-simple.netlify.app/](https://lms-design-01.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
