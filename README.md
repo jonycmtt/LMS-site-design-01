@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/jonycmtt/LMS-site-design-01/blob/main/demo2.png?raw=true" alt="project-screenshot" width="1000" height="400/">
+<img src="https://github.com/jonycmtt/LMS-site-design-01/blob/main/demo2.png?raw=true" alt="project-screenshot" width="1000" height="auto/">
 
 <h2>💻 Built with</h2>
 
